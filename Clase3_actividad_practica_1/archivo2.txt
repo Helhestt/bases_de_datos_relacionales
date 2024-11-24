@@ -1,0 +1,21 @@
+en la actividad practica el profe nos pidio realizar tablas cortas
+en SQL.
+
+usamos las palabras que aprendimos en clases tales como:
+
+create table
+drop table
+select
+select * from
+where 
+like 
+count()
+and
+or
+in
+distinct
+order by
+limit
+sum, avg
+max, min
+
