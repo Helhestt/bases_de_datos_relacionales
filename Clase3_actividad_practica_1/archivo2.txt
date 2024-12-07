@@ -19,3 +19,5 @@ limit
 sum, avg
 max, min
 
+estos datos estan mal
+probando...probando
